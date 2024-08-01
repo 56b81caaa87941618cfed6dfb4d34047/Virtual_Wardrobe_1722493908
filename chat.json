@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want to retain the same font style and size for the 'About Us' text as was used for 'Seamless Shopping'?\", \"option1\": \"Yes, keep the font style and size the same.\", \"option2\": \"No, I'd like a different font style/size.\"}, {\"question 2\": \"Should the 'About Us' section replace 'Seamless Shopping' in the same location, or do you require a position change?\", \"option1\": \"Yes, replace 'Seamless Shopping' in the same location.\", \"option2\": \"No, I'd like 'About Us' to be positioned elsewhere.\"}], \"input_token_count\": 259, \"output_token_count\": 147, \"time_taken\": \"0:00:05.297016\"}",
+        "message_id": "guest01082024063434",
+        "timestamp": "01082024063441",
+        "component_file_name": "simple_header_component_1722493909",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll change the text to \"About Us\".",
         "message_id": "guest01082024063434",
