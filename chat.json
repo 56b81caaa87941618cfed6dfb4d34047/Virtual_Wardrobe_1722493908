@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'll add a button with the text \"UiElements\".",
+        "message_id": "guest01082024063907",
+        "timestamp": "01082024063909",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text UiElements",
         "message_id": "guest01082024063907",
