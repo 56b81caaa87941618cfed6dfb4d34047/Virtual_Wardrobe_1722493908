@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: Change the Seamless Shopping text to About Us\nAI: Sure, I'll change the text to \"About Us\".\nUser: add a button with text UiElements\nAI: Alright, I'll add a button with the text \"UiElements\".\nThis is the user's current request of changes to be made: add a button with text UiElements"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: Change the Seamless Shopping text to About Us\nAI: Sure, I'll change the text to \"About Us\".\nUser: add a button with text UiElements\nAI: Alright, I'll add a button with the text \"UiElements\".\nUser: add a button with text UiElements\nAI: Alright, adding a button with the text UiElements.\nThis is the user's current request of changes to be made: add a button with text UiElements"
     }
 ]
