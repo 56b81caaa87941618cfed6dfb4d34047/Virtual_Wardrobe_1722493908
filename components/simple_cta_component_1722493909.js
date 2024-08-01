@@ -6,11 +6,11 @@ Vue.component("simple_cta_component_1722493909", {
         <div id="cta-inner-container" class="max-w-screen-xl px-8 py-12 mx-auto lg:py-20 lg:px-10 backdrop-blur-xl bg-white/10 rounded-3xl shadow-2xl border border-white/30">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
-                    <h2 id="cta-title" class="flex-1 mb-6 text-5xl font-extrabold leading-tight tracking-wide text-white text-shadow-lg">Cosmic Style Evolution</h2>
+                    <h2 id="cta-title" class="flex-1 mb-6 text-6xl font-extrabold leading-tight tracking-wide text-transparent bg-clip-text bg-gradient-to-r from-pink-300 to-purple-300 drop-shadow-lg">Cosmic Style Evolution</h2>
                 </div>
 
                 <div id="cta-subtitle-container" class="flex">
-                    <p id="cta-subtitle" class="flex-1 mb-8 font-medium text-white/90 text-2xl">Embark on a Surreal Fashion Journey</p>
+                    <p id="cta-subtitle" class="flex-1 mb-8 font-medium text-white/90 text-2xl backdrop-blur-sm p-4 rounded-xl">Embark on a Surreal Fashion Journey</p>
                 </div>
                 
                 <div id="cta-button-container" class="flex space-x-6">
