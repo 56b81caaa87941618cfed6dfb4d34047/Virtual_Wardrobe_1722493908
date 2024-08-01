@@ -2,20 +2,20 @@
 */
 Vue.component("simple_footer_component_1722493909", {
     template: `
-    <footer id="footer-section" style="min-height: 390px" class="flex-1 bg-gradient-to-br from-pink-400 via-purple-500 to-indigo-600 backdrop-blur-md bg-opacity-30 shadow-lg">
-            <div id="footer-container" class="max-w-screen-xl p-8 py-10 mx-auto lg:py-16 md:p-12 lg:p-14 rounded-3xl border border-white border-opacity-20">
-                <hr id="footer-divider" class="my-8 border-white border-opacity-30 sm:mx-auto lg:my-10">
+    <footer id="footer-section" class="flex-1 bg-gradient-to-br from-pink-400 via-purple-500 to-indigo-600 backdrop-blur-lg bg-opacity-30 shadow-xl min-h-450px">
+            <div id="footer-container" class="max-w-screen-xl p-10 py-12 mx-auto lg:py-20 md:p-14 lg:p-16 rounded-3xl border border-white border-opacity-30 backdrop-filter backdrop-blur-md bg-white bg-opacity-10 shadow-2xl">
+                <hr id="footer-divider" class="my-10 border-white border-opacity-40 sm:mx-auto lg:my-12">
                 <div id="footer-content" class="text-center">
                     <div class="flex">
-                        <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-6 text-3xl font-bold text-white">
-                            <img id="footer-logo" src="./images/logo.svg" class="h-8 mr-4 sm:h-10 filter drop-shadow-lg" alt="Landwind Logo" />
-                            FabricFinds - Your Stylish Destination Place of living
+                        <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-8 text-4xl font-extrabold text-white text-opacity-90 transition duration-300 hover:text-opacity-100">
+                            <img id="footer-logo" src="./images/logo.svg" class="h-10 mr-5 sm:h-12 filter drop-shadow-lg" alt="Landwind Logo" />
+                            FabricFinds - Your Cosmic Fashion Haven
                         </a>
                     </div>
                 </div>
                 <div class="flex">
-                    <div id="footer-text" class="flex-1 block text-lg text-center text-white text-opacity-80 font-medium">
-                        Experience the best in fashion at FabricFinds. Browse our exquisite collection of fabrics, clothing, and accessories for every style and occasion. Stay trendy with us!
+                    <div id="footer-text" class="flex-1 block text-xl text-center text-white text-opacity-90 font-medium tracking-wide leading-relaxed">
+                        Discover celestial style at FabricFinds. Explore our otherworldly collection of fabrics, clothing, and accessories for every cosmic occasion. Elevate your fashion to stellar heights with us!
                     </div>
                 </div>
             </div>
