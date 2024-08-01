@@ -1,63 +1,97 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1722493909",
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a button with the text \"UiElements\".",
+        "message_id": "guest01082024063911",
+        "timestamp": "01082024063912",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "Change the Seamless Shopping text to About Us",
-        "timestamp": "01082024063435",
-        "message_id": "guest01082024063434"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'll change the text to \"About Us\".",
-        "timestamp": "01082024063436",
-        "message_id": "guest01082024063434"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want to retain the same font style and size for the 'About Us' text as was used for 'Seamless Shopping'?\", \"option1\": \"Yes, keep the font style and size the same.\", \"option2\": \"No, I'd like a different font style/size.\"}, {\"question 2\": \"Should the 'About Us' section replace 'Seamless Shopping' in the same location, or do you require a position change?\", \"option1\": \"Yes, replace 'Seamless Shopping' in the same location.\", \"option2\": \"No, I'd like 'About Us' to be positioned elsewhere.\"}], \"input_token_count\": 259, \"output_token_count\": 147, \"time_taken\": \"0:00:05.297016\"}",
-        "timestamp": "01082024063441",
-        "message_id": "guest01082024063434"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Update navigation menu to include 'About Us' section for better user understanding\", \"checked\": true}, {\"feature\": \"Add an engaging 'Meet the Team' section in 'About Us' for a personal touch\", \"checked\": false}, {\"feature\": \"Incorporate a timeline in 'About Us' showing the history and milestones of the store\", \"checked\": false}, {\"feature\": \"Embed a sectional video introduction in 'About Us' to visually engage users\", \"checked\": false}, {\"feature\": \"Integrate customer testimonials in 'About Us' for building trust and credibility\", \"checked\": false}, {\"feature\": \"Include an FAQ section in 'About Us' to address common inquiries\", \"checked\": true}], \"input_token_count\": 213, \"output_token_count\": 164, \"time_taken\": \"0:00:08.208502\"}",
-        "timestamp": "01082024063444",
-        "message_id": "guest01082024063434"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a button with text UiElements",
-        "timestamp": "01082024063908",
-        "message_id": "guest01082024063907"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Alright, I'll add a button with the text \"UiElements\".",
-        "timestamp": "01082024063909",
-        "message_id": "guest01082024063907"
-    },
-    {
-        "role": "user",
-        "content": "add a button with text UiElements",
-        "timestamp": "01082024063910",
-        "message_id": "guest01082024063909"
+        "message_id": "guest01082024063911",
+        "timestamp": "01082024063912",
+        "component_file_name": "simple_cta_component_1722493909",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Alright, adding a button with the text UiElements.",
+        "message_id": "guest01082024063909",
         "timestamp": "01082024063910",
-        "message_id": "guest01082024063909"
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a button with text UiElements",
+        "message_id": "guest01082024063909",
+        "timestamp": "01082024063910",
+        "component_file_name": "simple_cta_component_1722493909",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'll add a button with the text \"UiElements\".",
+        "message_id": "guest01082024063907",
+        "timestamp": "01082024063909",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button with text UiElements",
+        "message_id": "guest01082024063907",
+        "timestamp": "01082024063908",
+        "component_file_name": "simple_cta_component_1722493909",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Update navigation menu to include 'About Us' section for better user understanding\", \"checked\": true}, {\"feature\": \"Add an engaging 'Meet the Team' section in 'About Us' for a personal touch\", \"checked\": false}, {\"feature\": \"Incorporate a timeline in 'About Us' showing the history and milestones of the store\", \"checked\": false}, {\"feature\": \"Embed a sectional video introduction in 'About Us' to visually engage users\", \"checked\": false}, {\"feature\": \"Integrate customer testimonials in 'About Us' for building trust and credibility\", \"checked\": false}, {\"feature\": \"Include an FAQ section in 'About Us' to address common inquiries\", \"checked\": true}], \"input_token_count\": 213, \"output_token_count\": 164, \"time_taken\": \"0:00:08.208502\"}",
+        "message_id": "guest01082024063434",
+        "timestamp": "01082024063444",
+        "component_file_name": "simple_header_component_1722493909",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want to retain the same font style and size for the 'About Us' text as was used for 'Seamless Shopping'?\", \"option1\": \"Yes, keep the font style and size the same.\", \"option2\": \"No, I'd like a different font style/size.\"}, {\"question 2\": \"Should the 'About Us' section replace 'Seamless Shopping' in the same location, or do you require a position change?\", \"option1\": \"Yes, replace 'Seamless Shopping' in the same location.\", \"option2\": \"No, I'd like 'About Us' to be positioned elsewhere.\"}], \"input_token_count\": 259, \"output_token_count\": 147, \"time_taken\": \"0:00:05.297016\"}",
+        "message_id": "guest01082024063434",
+        "timestamp": "01082024063441",
+        "component_file_name": "simple_header_component_1722493909",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll change the text to \"About Us\".",
+        "message_id": "guest01082024063434",
+        "timestamp": "01082024063436",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Change the Seamless Shopping text to About Us",
+        "message_id": "guest01082024063434",
+        "timestamp": "01082024063435",
+        "component_file_name": "simple_header_component_1722493909",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "01082024063912",
         "message_id": "guest01082024063911"
     }
