@@ -12,5 +12,11 @@
         "content": "Change the Seamless Shopping text to About Us",
         "timestamp": "01082024063435",
         "message_id": "guest01082024063434"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll change the text to \"About Us\".",
+        "timestamp": "01082024063436",
+        "message_id": "guest01082024063434"
     }
 ]
