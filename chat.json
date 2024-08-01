@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Include interactive hover effects on buttons for a better user experience\", \"checked\": true}, {\"feature\": \"Add a 'Featured Products' section on the homepage with a carousel\", \"checked\": true}, {\"feature\": \"Implement a 'Shop by Category' section for easier navigation\", \"checked\": true}, {\"feature\": \"Embed a user review and rating section for each product\", \"checked\": false}, {\"feature\": \"Incorporate a 'Sale' or 'Discount' badge on products on special offer\", \"checked\": false}, {\"feature\": \"Utilize an advanced search bar with filter options for product searches\", \"checked\": true}], \"input_token_count\": 311, \"output_token_count\": 147, \"time_taken\": \"0:00:07.713604\"}",
+        "message_id": "guest01082024063911",
+        "timestamp": "01082024063930",
+        "component_file_name": "simple_cta_component_1722493909",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'UiElements' button to be positioned on your app?\", \"option1\": \"In the main navigation menu\", \"option2\": \"At the bottom of the homepage\"}, {\"question 2\": \"What action should occur when the 'UiElements' button is clicked?\", \"option1\": \"Redirect to a new page with UI elements showcased\", \"option2\": \"Open a pop-up showcasing the UI elements\"}], \"input_token_count\": 334, \"output_token_count\": 103, \"time_taken\": \"0:00:15.037643\"}",
         "message_id": "guest01082024063909",
