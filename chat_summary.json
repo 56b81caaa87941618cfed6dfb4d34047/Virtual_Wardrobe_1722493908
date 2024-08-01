@@ -36,5 +36,11 @@
         "content": "add a button with text UiElements",
         "timestamp": "01082024063908",
         "message_id": "guest01082024063907"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'll add a button with the text \"UiElements\".",
+        "timestamp": "01082024063909",
+        "message_id": "guest01082024063907"
     }
 ]
