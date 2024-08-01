@@ -4,5 +4,6 @@
     "project_description": "an app for cloth store",
     "creation_time": "2024-08-01 06:31:48.098650",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vivid cosmic landscape with a dominant color scheme of bright pinks and purples, complemented by black silhouettes of mountains and trees. The overall style is dreamy and fantastical, with a surreal atmosphere created by the glowing planetary bodies and reflective water."
 }
