@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want to retain the same font style and size for the 'About Us' text as was used for 'Seamless Shopping'?\", \"option1\": \"Yes, keep the font style and size the same.\", \"option2\": \"No, I'd like a different font style/size.\"}, {\"question 2\": \"Should the 'About Us' section replace 'Seamless Shopping' in the same location, or do you require a position change?\", \"option1\": \"Yes, replace 'Seamless Shopping' in the same location.\", \"option2\": \"No, I'd like 'About Us' to be positioned elsewhere.\"}], \"input_token_count\": 259, \"output_token_count\": 147, \"time_taken\": \"0:00:05.297016\"}",
         "timestamp": "01082024063441",
         "message_id": "guest01082024063434"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Update navigation menu to include 'About Us' section for better user understanding\", \"checked\": true}, {\"feature\": \"Add an engaging 'Meet the Team' section in 'About Us' for a personal touch\", \"checked\": false}, {\"feature\": \"Incorporate a timeline in 'About Us' showing the history and milestones of the store\", \"checked\": false}, {\"feature\": \"Embed a sectional video introduction in 'About Us' to visually engage users\", \"checked\": false}, {\"feature\": \"Integrate customer testimonials in 'About Us' for building trust and credibility\", \"checked\": false}, {\"feature\": \"Include an FAQ section in 'About Us' to address common inquiries\", \"checked\": true}], \"input_token_count\": 213, \"output_token_count\": 164, \"time_taken\": \"0:00:08.208502\"}",
+        "timestamp": "01082024063444",
+        "message_id": "guest01082024063434"
     }
 ]
